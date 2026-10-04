@@ -7,17 +7,16 @@
 
 # BitChord
 
-### Aesthetic YouTube Music Client
+### Aesthetic YouTube Music Client (developed by Pranav Vilas Pardhi) 
 
 <br/>
 
-[![Latest release](https://img.shields.io/github/v/release/kushagrasinghx/BitChord?style=for-the-badge&labelColor=0d1117)](https://github.com/kushagrasinghx/BitChord/releases)
-[![License](https://img.shields.io/github/license/kushagrasinghx/BitChord?style=for-the-badge&labelColor=0d1117)](https://github.com/kushagrasinghx/BitChord/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/kushagrasinghx/BitChord/total?style=for-the-badge&labelColor=0d1117)](https://github.com/kushagrasinghx/BitChord/releases)
+[![Latest release](https://github.com/pranavvilaspardhi-ship-it/BitChord/releases/tag/apk)
+[![Downloads](https://github.com/pranavvilaspardhi-ship-it/BitChord/releases/tag/apk)
 
 <br/>
 
-[**Download**](#download) · [**Features**](#features) · [**Support**](#support) · [**Disclaimer**](#disclaimer)
+[**Download**](#download) · [**Features**](#features) ·  · [**Disclaimer**](#disclaimer)
 
 <br/>
 
@@ -84,7 +83,7 @@
 
 <h1><a id="download"></a>Download</h1>
 
-Grab the latest signed APK from the [Releases](https://github.com/kushagrasinghx/BitChord/releases) page. Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
+Grab the latest signed APK from the [Releases](https://github.com/pranavvilaspardhi-ship-it/BitChord/releases/tag/apk) page. Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
 
 </div>
 
@@ -96,8 +95,6 @@ Grab the latest signed APK from the [Releases](https://github.com/kushagrasinghx
 
 BitChord is free and always will be — if it's earned a spot in your rotation, you can chip in here:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kushagrasinghx)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kuxhagrasingh)
 
 </div>
 
